@@ -18,3 +18,4 @@ https://bite.is.tue.mpg.de/
 ## License
 
 ## Output
+![Screenshot 2023-06-20 031345](https://github.com/camenduru/bite-colab/assets/54370274/063797af-dd7c-4682-8e3f-1631e0e495b4)
