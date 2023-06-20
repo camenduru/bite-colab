@@ -14,6 +14,7 @@ https://huggingface.co/spaces/runa91/bite_gradio/tree/main <br />
 https://bite.is.tue.mpg.de/
 
 ## Paper
+https://bite.is.tue.mpg.de/media/upload/8226_bite_beyond_priors_for_improve-Camera-ready%20PDF.pdf
 
 ## License
 
