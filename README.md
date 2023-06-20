@@ -8,6 +8,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/bite-colab/blob/main/bite_colab.ipynb) | bite_colab
 
 ## Main Repo
+https://huggingface.co/spaces/runa91/bite_gradio/tree/main <br />
 
 ## Page
 https://bite.is.tue.mpg.de/
